@@ -15,15 +15,15 @@
 
   <br />
 
-  <a href="https://www.linkedin.com/in/anas-jameel-167s/" target="_blank">
+  <a href="www.linkedin.com/in/prem-chuniyan-1015242a8" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=ffffff" height="28" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="https://x.com/AnasJameel300" target="_blank">
+  <a href="https://x.com/PremChuniyan" target="_blank">
     <img src="https://img.shields.io/badge/X-161b22?style=for-the-badge&logo=x&logoColor=ffffff" height="28" alt="X"/>
   </a>
   &nbsp;
-  <a href="mailto:anasjameel300@gmail.com" target="_blank">
+  <a href="mailto:premchuniyan@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=ffffff" height="28" alt="Email"/>
   </a>
 
